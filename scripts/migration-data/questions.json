@@ -1,0 +1,42 @@
+[
+ {
+  "id": "cmui5mzpx000dj9x1r3fnu9vn",
+  "examId": "cmui5mzpx000cj9x1yt6tb45l",
+  "text": "ما هي الدالة المستخدمة لطباعة النصوص في بايثون؟",
+  "type": "MCQ",
+  "options": "[\"print()\",\"echo()\",\"log()\",\"show()\"]",
+  "correct": "print()",
+  "marks": 1,
+  "order": 0
+ },
+ {
+  "id": "cmui5mzpx000ej9x1z42vjr64",
+  "examId": "cmui5mzpx000cj9x1yt6tb45l",
+  "text": "بايثون لغة يصعب تعلمها للمبتدئين",
+  "type": "TRUE_FALSE",
+  "options": "[\"صح\",\"خطأ\"]",
+  "correct": "خطأ",
+  "marks": 1,
+  "order": 1
+ },
+ {
+  "id": "cmui5mzpx000fj9x1lqmdgibc",
+  "examId": "cmui5mzpx000cj9x1yt6tb45l",
+  "text": "أي من التالي نوع بيانات منطقي (Boolean) في بايثون؟",
+  "type": "MCQ",
+  "options": "[\"True\",\"1\",\"نعم\",\"yes\"]",
+  "correct": "True",
+  "marks": 1,
+  "order": 2
+ },
+ {
+  "id": "cmui5mzpx000gj9x1g52ummsg",
+  "examId": "cmui5mzpx000cj9x1yt6tb45l",
+  "text": "كيف نكتب تعليق (Comment) في بايثون؟",
+  "type": "MCQ",
+  "options": "[\"// تعليق\",\"# تعليق\",\"/* تعليق */\",\"<!-- تعليق -->\"]",
+  "correct": "# تعليق",
+  "marks": 1,
+  "order": 3
+ }
+]

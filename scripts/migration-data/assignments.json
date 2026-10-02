@@ -1,0 +1,14 @@
+[
+ {
+  "id": "cmui5mzpz000ij9x102pymamm",
+  "title": "واجب: برنامج الآلة الحاسبة البسيطة",
+  "description": "اكتب برنامج بايثون بسيط يأخذ رقمين من المستخدم ويطبع مجموعهما وفارقهما. اشرح الكود بالتعليقات، ثم سلّم الحل كنص أو صورة.",
+  "courseId": "cmui5mzps0001j9x10fxw5qew",
+  "dueDate": null,
+  "maxScore": 10,
+  "allowFile": true,
+  "allowText": true,
+  "isPublished": true,
+  "createdAt": "2026-09-26T08:55:42.168Z"
+ }
+]

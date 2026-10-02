@@ -1,0 +1,14 @@
+[
+ {
+  "id": "cmui5mzps0003j9x1w5qxnjqh",
+  "title": "الوحدة الأولى: البداية مع بايثون",
+  "order": 0,
+  "courseId": "cmui5mzps0001j9x10fxw5qew"
+ },
+ {
+  "id": "cmui5mzpt0005j9x1isge8fh6",
+  "title": "الوحدة الثانية: التحكم في سير البرنامج",
+  "order": 1,
+  "courseId": "cmui5mzps0001j9x10fxw5qew"
+ }
+]

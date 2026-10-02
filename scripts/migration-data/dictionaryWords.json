@@ -1,0 +1,51 @@
+[
+ {
+  "id": "cmui7chjx0000j9fjhxn6qov7",
+  "arabic": "ماء",
+  "english": "water",
+  "description": "السائل الشفاف الذي نشربه — مثال: I drink water every day.",
+  "createdAt": "2026-09-26T09:43:31.293Z"
+ },
+ {
+  "id": "cmui7chko0001j9fjll7xgtbp",
+  "arabic": "كتاب",
+  "english": "book",
+  "description": "مجموعة صفحات مطبوعة للقراءة — مثال: This book is very useful.",
+  "createdAt": "2026-09-26T09:43:31.320Z"
+ },
+ {
+  "id": "cmui7chkp0002j9fjpn48weic",
+  "arabic": "مدرسة",
+  "english": "school",
+  "description": "المكان الذي نتعلم فيه — مثال: I go to school by bus.",
+  "createdAt": "2026-09-26T09:43:31.322Z"
+ },
+ {
+  "id": "cmui7chkr0003j9fj70jrdzf4",
+  "arabic": "صديق",
+  "english": "friend",
+  "description": "الشخص الذي تحبه وتثق فيه — مثال: My friend helps me study.",
+  "createdAt": "2026-09-26T09:43:31.323Z"
+ },
+ {
+  "id": "cmui7chks0004j9fjs7yaj83e",
+  "arabic": "حاسوب",
+  "english": "computer",
+  "description": "جهاز إلكتروني للعمل والتعلم — مثال: I use a computer to code.",
+  "createdAt": "2026-09-26T09:43:31.325Z"
+ },
+ {
+  "id": "cmui7chkt0005j9fjrmdtwm2t",
+  "arabic": "شكرًا",
+  "english": "thank you",
+  "description": "كلمة تُقال تقديرًا لمعروف — مثال: Thank you for your help!",
+  "createdAt": "2026-09-26T09:43:31.326Z"
+ },
+ {
+  "id": "cmui7pmaq0000j9vdaao4yhrs",
+  "arabic": "طالب",
+  "english": "student",
+  "description": "الشخص الذي يدرس في المدرسة أو الجامعة — مثال: The student reads every day.",
+  "createdAt": "2026-09-26T09:53:43.971Z"
+ }
+]

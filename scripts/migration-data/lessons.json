@@ -1,0 +1,47 @@
+[
+ {
+  "id": "cmui5mzpu0006j9x1fg639ngn",
+  "title": "ما هي البرمجة ولماذا بايثون؟",
+  "type": "TEXT",
+  "content": "البرمجة هي فن تحويل الأفكار إلى تعليمات يفهمها الحاسوب.\n\nلماذا بايثون؟\n1. لغة سهلة وقريبة من اللغة الإنسانية\n2. مجتمع ضخم ومكتبات لا نهائية\n3. تُستخدم في الويب، الذكاء الاصطناعي، تحليل البيانات، والأتمتة\n\nفي هذا الكورس سنتعلم خطوة بخطوة مع أمثلة عملية بعد كل درس.",
+  "order": 0,
+  "unitId": "cmui5mzps0003j9x1w5qxnjqh",
+  "createdAt": "2026-09-26T08:55:42.163Z"
+ },
+ {
+  "id": "cmui5mzpu0007j9x139hvie74",
+  "title": "تنصيب بايثون وأول برنامج",
+  "type": "VIDEO",
+  "content": "https://www.youtube.com/watch?v=rfscVS0vtbw",
+  "order": 1,
+  "unitId": "cmui5mzps0003j9x1w5qxnjqh",
+  "createdAt": "2026-09-26T08:55:42.163Z"
+ },
+ {
+  "id": "cmui5mzpu0008j9x1gqs5kzji",
+  "title": "المتغيرات وأنواع البيانات",
+  "type": "TEXT",
+  "content": "المتغير = وعاء نخزن فيه بيانات.\n\nx = 5          # عدد صحيح (int)\nname = \"أحمد\"  # نص (str)\npi = 3.14      # عدد عشري (float)\nok = True      # منطقي (bool)\n\nجرّب بنفسك: أنشئ متغيرًا لاسمك وآخر لعمرك ثم اطبعهما بطباعة print().",
+  "order": 2,
+  "unitId": "cmui5mzps0003j9x1w5qxnjqh",
+  "createdAt": "2026-09-26T08:55:42.163Z"
+ },
+ {
+  "id": "cmui5mzpv0009j9x1d3cyf9x5",
+  "title": "جملة if والشروط",
+  "type": "VIDEO",
+  "content": "https://www.youtube.com/watch?v=DZwmv8Ijgl0",
+  "order": 0,
+  "unitId": "cmui5mzpt0005j9x1isge8fh6",
+  "createdAt": "2026-09-26T08:55:42.163Z"
+ },
+ {
+  "id": "cmui5mzpv000aj9x1k28dryge",
+  "title": "مراجعة الوحدة الثانية",
+  "type": "TEXT",
+  "content": "مراجعة سريعة:\n- if: نفّذ الكود إذا تحقق الشرط\n- elif: شرط بديل\n- else: في كل الحالات الأخرى\n\nالمقارنات: ==  !=  >  <  >=  <=\nالمنطق: and / or / not",
+  "order": 1,
+  "unitId": "cmui5mzpt0005j9x1isge8fh6",
+  "createdAt": "2026-09-26T08:55:42.163Z"
+ }
+]
